@@ -1,0 +1,16 @@
+# Datasets & large generated artifacts (excluded per assignment instructions)
+BanglaLekha-Isolated/
+subset/
+*.zip
+models/
+artifacts/
+mlruns/
+
+# Python / IDE / OS caches
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.DS_Store
+.ipynb_checkpoints/

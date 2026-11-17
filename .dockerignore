@@ -1,0 +1,11 @@
+BanglaLekha-Isolated/
+subset/
+*.zip
+artifacts/
+mlruns/
+screenshots/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.git/
